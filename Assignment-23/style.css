@@ -1,0 +1,41 @@
+/*-----------------------------------------------------------------------------------
+
+	Template Name: phototime
+	Template URI: http://www.softtech-it.com
+	Description: photo related template
+	Author: Hasan Mahmud
+	Author URI: http://www.HN-Mahmud.com
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Version: 1.0
+
+-----------------------------------------------------------------------------------
+
+	1. Typography
+	2. Header Area
+		2.1 Menu Area
+		2.2 Welcome Text 
+		2.3 Social Media 
+	3. Getting Started
+	4. Design Area
+	5. Community Area
+	6. Subscribe Area
+	7. Download Area
+	8. Footer Area
+
+-----------------------------------------------------------------------------------*/
+
+/************** 1. Typography ************************/
+
+@font-face {
+	font-family: "something";
+	src: url('fonts/something.woff') format('woff');
+}
+
+body, p {
+	font-family: "something";
+	font-size: 16px;
+	line-height: 28px;
+}
+
+/**************** 2. Header Area ********/
